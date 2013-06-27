@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Item1</key>
+		<string>18-24</string>
+		<key>Item2</key>
+		<string>25-34</string>
+		<key>Item3</key>
+		<string>35-44</string>
+		<key>Item4</key>
+		<string>45-54</string>
+		<key>Item5</key>
+		<string>55 OR OLDER</string>
+	</dict>
+	<dict>
+		<key>Item1</key>
+		<string>FEELS NORMAL</string>
+		<key>Item2</key>
+		<string>IS SHINY ALL OVER</string>
+		<key>Item3</key>
+		<string>IS SHINY IN T-ZONE</string>
+		<key>Item4</key>
+		<string>FEELS TIGHT IN CERNTAIN AREAS (CHEEKS, EYES)</string>
+		<key>Item5</key>
+		<string>FEELS TIGHT ALL OVER</string>
+	</dict>
+	<dict>
+		<key>Item1</key>
+		<string>ACNE AND BREAKOUTS</string>
+		<key>Item2</key>
+		<string>OILINESS AND LARGE PORES</string>
+		<key>Item3</key>
+		<string>DARK SPOTS AND DISCOLORATION</string>
+		<key>Item4</key>
+		<string>GENERAL DULL APPEARANCE	</string>
+		<key>Item5</key>
+		<string>FINE LINES AND WRINKLES</string>
+	</dict>
+	<dict>
+		<key>Item1</key>
+		<string>FREQUENTLY</string>
+		<key>Item2</key>
+		<string>OCCASIONALLY</string>
+		<key>Item3</key>
+		<string>RARELY</string>
+		<key>Item4</key>
+		<string>NEVER</string>
+	</dict>
+</array>
+</plist>
